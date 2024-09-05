@@ -1,0 +1,27 @@
+{
+  "name": "nodecryptjs",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "inquirer": "^9.3.6"
+  },
+  "description": "Password Manager to secure the password ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnakumbhaj/NodeCryptJS.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "krihsnakumbhaj",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/krishnakumbhaj/NodeCryptJS/issues"
+  },
+  "homepage": "https://github.com/krishnakumbhaj/NodeCryptJS#readme"
+}
